@@ -1,1 +1,4 @@
-Tyler Pettit
+Name: Tyler Pettit
+Major: Statistics
+Emphasis: Data Science
+
